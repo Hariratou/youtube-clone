@@ -1,0 +1,42 @@
+body {
+  background-color: #ffcea6;
+  background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 2000 1500'%3E%3Cdefs%3E%3Cellipse fill='none' stroke-width='200' id='a' rx='600' ry='450'/%3E%3C/defs%3E%3Cg style='transform-origin:center'%3E%3Cg transform='rotate(180 0 0)' style='transform-origin:center'%3E%3Cg transform='rotate(-160 0 0)' style='transform-origin:center'%3E%3Cg transform='translate(1000 750)'%3E%3Cuse stroke='%236e1832' href='%23a' transform='rotate(-60 0 0) scale(0.4)'/%3E%3Cuse stroke='%23781d34' href='%23a' transform='rotate(-50 0 0) scale(0.5)'/%3E%3Cuse stroke='%23822235' href='%23a' transform='rotate(-40 0 0) scale(0.6)'/%3E%3Cuse stroke='%238c2836' href='%23a' transform='rotate(-30 0 0) scale(0.7)'/%3E%3Cuse stroke='%23962e37' href='%23a' transform='rotate(-20 0 0) scale(0.8)'/%3E%3Cuse stroke='%239f3437' href='%23a' transform='rotate(-10 0 0) scale(0.9)'/%3E%3Cuse stroke='%23a93b37' href='%23a' transform=''/%3E%3Cuse stroke='%23b24237' href='%23a' transform='rotate(10 0 0) scale(1.1)'/%3E%3Cuse stroke='%23ba4a36' href='%23a' transform='rotate(20 0 0) scale(1.2)'/%3E%3Cuse stroke='%23c35135' href='%23a' transform='rotate(30 0 0) scale(1.3)'/%3E%3Cuse stroke='%23cb5a33' href='%23a' transform='rotate(40 0 0) scale(1.4)'/%3E%3Cuse stroke='%23d26231' href='%23a' transform='rotate(50 0 0) scale(1.5)'/%3E%3Cuse stroke='%23d96b2f' href='%23a' transform='rotate(60 0 0) scale(1.6)'/%3E%3Cuse stroke='%23df742c' href='%23a' transform='rotate(70 0 0) scale(1.7)'/%3E%3Cuse stroke='%23e57d29' href='%23a' transform='rotate(80 0 0) scale(1.8)'/%3E%3Cuse stroke='%23eb8726' href='%23a' transform='rotate(90 0 0) scale(1.9)'/%3E%3Cuse stroke='%23f09122' href='%23a' transform='rotate(100 0 0) scale(2)'/%3E%3Cuse stroke='%23f49b1d' href='%23a' transform='rotate(110 0 0) scale(2.1)'/%3E%3Cuse stroke='%23f7a518' href='%23a' transform='rotate(120 0 0) scale(2.2)'/%3E%3Cuse stroke='%23fab012' href='%23a' transform='rotate(130 0 0) scale(2.3)'/%3E%3Cuse stroke='%23fdba0b' href='%23a' transform='rotate(140 0 0) scale(2.4)'/%3E%3Cuse stroke='%23fec504' href='%23a' transform='rotate(150 0 0) scale(2.5)'/%3E%3Cuse stroke='%23FFD000' href='%23a' transform='rotate(160 0 0) scale(2.6)'/%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  background-size: cover;
+  
+  }
+
+  .main img {
+    margin-right: 0rem;
+  }
+  h1 {
+    color: #ffffff;
+    text-align: center;
+    font-family: sans-serif;
+    font-size: 40px;
+  }
+  i,
+  a {
+    color: #ffffff;
+    font-size: 30px;
+  }
+  .club {
+    color: #ffffff;
+    font-size: 30px;
+   
+  }
+  i:hover,
+  a:hover {
+    outline: none;
+    color: #000;
+  }
+  /* p {
+    color: #ffffff;
+    font-size: 20px;
+  }
+   */
+  .main {
+    color: #ffffff;
+    font-size: 45px;
+  }
+  
